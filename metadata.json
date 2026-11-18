@@ -1,0 +1,6 @@
+{
+  "name": "CivicForms Archive",
+  "description": "A static document and PDF forms repository with automatic folder discovery, hierarchical directory browsing, and in-browser file preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

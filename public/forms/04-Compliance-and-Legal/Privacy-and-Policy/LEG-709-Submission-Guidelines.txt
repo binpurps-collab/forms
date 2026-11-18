@@ -1,0 +1,19 @@
+LEGAL & COMPLIANCE DOCUMENT SUBMISSION GUIDELINES (REV 2026.2)
+====================================================================
+
+1. NAMING CONVENTION
+   Save executed PDF forms using the following format before archiving:
+   <FORM-CODE>_<YYYY-MM-DD>_<LASTNAME>.pdf
+   Example: LEG-701_2026-11-17_AcmeCorp.pdf
+
+2. SIGNATURE REQUIREMENTS
+   - Digital signatures with verifiable cryptographic timestamps are accepted.
+   - Wet-ink scans must be exported at a minimum resolution of 300 DPI in PDF/A format.
+
+3. RETENTION SCHEDULE
+   - Data Processing Addenda (LEG-701): Active Term + 7 Years
+   - Security Acknowledgements (LEG-704): Active Employment + 3 Years
+   - Conflict of Interest Disclosures (LEG-805): 5 Fiscal Years
+
+4. ARCHIVE CONTACT
+   Compliance Operations Desk · compliance-archive@organization.example

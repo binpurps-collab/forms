@@ -1,0 +1,7 @@
+Region,City / Tier,Lodging Cap (USD),Meals & Incidentals (USD),Effective Date,Currency Code
+North America,Tier 1 (NYC / SF / DC),295.00,79.00,2026-01-01,USD
+North America,Tier 2 (Standard Metro),195.00,64.00,2026-01-01,USD
+Europe,London / Zurich / Paris,280.00,85.00,2026-01-01,EUR
+Europe,Regional Capitals,185.00,68.00,2026-01-01,EUR
+Asia-Pacific,Singapore / Tokyo,260.00,75.00,2026-01-01,SGD
+Asia-Pacific,Regional Hubs,155.00,52.00,2026-01-01,USD
